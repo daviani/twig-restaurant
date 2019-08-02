@@ -1,0 +1,16 @@
+{
+    "name": "vendor/twig-restaurant",
+    "description": "A restaurant web-site",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "daviani",
+            "email": "d.fillatre81@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
